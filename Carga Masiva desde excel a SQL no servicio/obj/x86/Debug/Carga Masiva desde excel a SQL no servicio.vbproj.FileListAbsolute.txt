@@ -1,0 +1,16 @@
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\bin\Debug\CargaMasiva desde excel a SQL.exe.manifest
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\bin\Debug\CargaMasiva desde excel a SQL.application
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\bin\Debug\CargaMasiva desde excel a SQL.exe
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\bin\Debug\CargaMasiva desde excel a SQL.pdb
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\bin\Debug\CargaMasiva desde excel a SQL.xml
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva_excel_a_SQL.CargaMasivaDesdeExcel.resources
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva_excel_a_SQL.Resources.resources
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\Carga Masiva desde excel a SQL no servicio.vbproj.GenerateResource.Cache
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.exe.manifest
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.application
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.exe
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.xml
+C:\Users\jose.mosco.ext\Documents\Alfonso\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.pdb
+C:\Users\jose.mosco.ext\Desktop\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.exe
+C:\Users\jose.mosco.ext\Desktop\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.xml
+C:\Users\jose.mosco.ext\Desktop\Carga Masiva desde excel a SQL no servicio\Carga Masiva desde excel a SQL no servicio\obj\x86\Debug\CargaMasiva desde excel a SQL.pdb
